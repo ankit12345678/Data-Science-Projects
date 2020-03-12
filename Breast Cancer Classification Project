@@ -1,0 +1,7 @@
+Predicting if the cancer diagnosis is benign or malignant based on several observations/features30 features are uesd,
+examples -radius(mean of distance from center to points on the perimeters) -texture(standard deviation of gray-scale values) -perimeter 
+-area -smoothness -compactness(perimeter(2)/area - 1.0) -concavity points (number of concave portions of the counter) -symmetry
+-fractal dimension("coastline approximation" - 1)
+
+Please find the code in below link
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/6038a866-e153-46e8-956e-3db4d02f5767/view?projectid=bd2812c6-e3ff-4356-94e0-d342ae5027ce&context=wdp
